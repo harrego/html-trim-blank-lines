@@ -1,0 +1,27 @@
+{
+  "name": "html-trim-blank-lines",
+  "version": "1.0.0",
+  "description": "Remove blank lines from HTML while preserving pre content",
+  "main": "html-trim-blank-lines.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrego/html-trim-blank-lines.git"
+  },
+  "keywords": [
+    "html",
+    "trim",
+    "blank",
+    "lines",
+    "prettify",
+    "beautify"
+  ],
+  "author": "Harry Stanton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harrego/html-trim-blank-lines/issues"
+  },
+  "homepage": "https://github.com/harrego/html-trim-blank-lines#readme"
+}
